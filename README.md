@@ -7,4 +7,4 @@ Installation on Linux systems
 
 Run and test
   * make
-  * ./mysql_disk_writes.o <your_mysql_host_name> <mysql_user_name> <mysql_user_password>
+  * ./mysql_disk_writes.o #your_mysql_host_name #mysql_user_name #mysql_user_password
