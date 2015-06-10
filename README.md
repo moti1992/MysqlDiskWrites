@@ -1,5 +1,5 @@
 # MysqlDiskWrites
-Calculation of number of disk writes in MySql DB
+Calculation of number of disk writes by MySql DB
 
 Installation on Linux systems
   * libmysqlclient-dev
